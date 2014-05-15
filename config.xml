@@ -1,0 +1,14 @@
+<widget id="co.za.pedagogic.testy" version="0.0.1">
+        <name>Testy testing</name>
+        <description>
+            Really wanna get that footer to stick.
+        </description>
+        <author email="isaac@pedagogic.co.za" href="http://pedagogic.co.za">
+            Pedagogic Software
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+        <preference name="Fullscreen" value="true" />
+		<preference name="DisallowOverscroll" value="true"/>
+		<preference name="WebViewBounce" value="false" />
+</widget>
